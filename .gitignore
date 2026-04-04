@@ -1,1 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.h5
+
+# Java
+target/
+*.class
+*.log
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dataset large files
+*.csv
+*.xlsx
+
+# environment
+.env
+venv/
+*.exe
+
 *.exe
